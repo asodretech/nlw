@@ -7,7 +7,7 @@
 
 Projeto Construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://alexsodretech.github.io/nwl)
+[Clique aqui para acessar](https://asodretech.github.io/nwl)
 
 ## Tecnologias
 
